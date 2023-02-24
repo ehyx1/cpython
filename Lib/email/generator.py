@@ -2,6 +2,8 @@
 # Author: Barry Warsaw
 # Contact: email-sig@python.org
 
+#tu byłem!!!!
+
 """Classes to generate plain text from a message object tree."""
 
 __all__ = ['Generator', 'DecodedGenerator', 'BytesGenerator']
